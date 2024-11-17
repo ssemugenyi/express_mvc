@@ -1,7 +1,7 @@
 {
-  "name": "09tut",
+  "name": "nodejs-express-api",
   "version": "1.0.0",
-  "description": "Express tutorial",
+  "description": "NodeJs Express API",
   "main": "server.js",
   "scripts": {
     "start": "node server",
